@@ -1,0 +1,32 @@
+.Navbar{
+    width: 99.7vw;
+    height: 4.12rem;
+    border: 2px solid #A35709;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.logo_container{
+    margin: 10px 40px;
+}
+
+.logo{
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+.logo_text{
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+/* @media (max-width:435px) {
+    .Navbar{
+        display: none;
+    }
+} */
